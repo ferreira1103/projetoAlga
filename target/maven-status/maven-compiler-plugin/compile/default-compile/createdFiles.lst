@@ -1,0 +1,7 @@
+br\com\ferreira\projetoAlga\model\Empresa.class
+br\com\ferreira\projetoAlga\repository\Empresas.class
+br\com\ferreira\projetoAlga\model\RamoAtividade.class
+br\com\ferreira\projetoAlga\repository\CamadaPersistencia.class
+br\com\ferreira\projetoAlga\model\TipoEmpresa.class
+br\com\ferreira\projetoAlga\repository\RamoAtividades.class
+br\com\ferreira\projetoAlga\repository\SchemaGeneration.class
